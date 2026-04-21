@@ -4,4 +4,4 @@ Boknotater, pre-workshop bias-prediksjoner, post-hoc diagnoser.
 
 ## Indeks
 
-*(oppdateres etter hvert)*
+- [Nudge — Thaler & Sunstein](nudge-thaler-sunstein.md) *(YouTube-sammendrag)*

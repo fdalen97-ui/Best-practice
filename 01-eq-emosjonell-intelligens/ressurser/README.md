@@ -6,4 +6,4 @@ Templates ligger i `.github/ISSUE_TEMPLATE/bok-oppsummering.md` — bruk samme s
 
 ## Indeks
 
-*(oppdateres etter hvert som notater legges til)*
+- [Emotional Intelligence 2.0 — Bradberry & Greaves](emotional-intelligence-2.0-bradberry-greaves.md) *(YouTube-sammendrag)*

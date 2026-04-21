@@ -11,4 +11,5 @@ Filnavn:
 
 ## Indeks
 
-*(oppdateres etter hvert)*
+- [Don't Make Me Think — Steve Krug](dont-make-me-think-krug.md) *(YouTube-sammendrag)*
+- [YouTube: Tilgjengelighet — sjekkliste](youtube-tilgjengelighet-sjekkliste.md)

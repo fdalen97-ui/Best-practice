@@ -10,4 +10,4 @@ Filnavn:
 
 ## Indeks
 
-*(oppdateres etter hvert)*
+- [Switch — Chip & Dan Heath](switch-heath.md) *(YouTube-sammendrag)*
