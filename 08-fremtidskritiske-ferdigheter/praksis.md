@@ -28,6 +28,17 @@ Skriv og publiser. Bygger offentlig profil — krav-rekvisitt for konsulenthus /
 
 Kobling til område 05: LinkedIn-artikler er også klarhets-trening.
 
+### Roboter og robotikk — ett notat i kvartalet
+
+Kvartalsvis, ikke ukentlig. Feltet beveger seg fort men arbeidsrelevansen er indirekte enda.
+
+Ett av følgende per kvartal, arkiveres i `ressurser/roboter-og-robotikk/`:
+- **Papir-gjennomgang**: les én VLA- eller embodied-AI-artikkel, skriv 1-side oppsummering.
+- **Demo-analyse**: velg én reell demo (π0.5, RT-2, Figure 02), skriv hva som faktisk er vist vs. hva som er kuttet bort.
+- **Koblingsnotat**: hvordan berører robotikk PropTech (byggeplass, eiendomsdrift, lager) om 3–5 år?
+
+Mål: ha et informert svar når noen spør "hva betyr robotikk for oss", uten å bli hype-soldat.
+
 ## Kobling til jobbsituasjoner
 
 - **RFP Studio**: eval-suite er reell, ikke øvelse.

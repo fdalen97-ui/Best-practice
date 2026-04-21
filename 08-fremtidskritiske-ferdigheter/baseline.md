@@ -7,5 +7,6 @@
 | Lokale/on-prem modeller | | | |
 | AI governance som drift | | | |
 | Spatial/multimodal AI for PropTech | | | |
+| Roboter og robotikk (embodied AI, VLA) | | | |
 
 **Gjennomsnitt:** _(beregn etter utfylling)_
