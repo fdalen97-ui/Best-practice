@@ -8,7 +8,7 @@ Ikke et lesebibliotek. Et arbeidsrom der lesing blir handling, koblet til konkre
 
 - `SPEC.md` — kildespesifikasjon. Ikke rediger uten grunn; redesign skjer bevisst.
 - `00-oversikt/` — baseline, mål, kvartalsrytme, dashboard.
-- `01-…` til `08-…` — åtte kjerneområder, identisk intern struktur.
+- `01-…` til `09-…` — ni kjerneområder, identisk intern struktur.
 - `lederdagbok/` — ukentlig/månedlig råstoff til selvevaluering.
 - `lesestoff/` — bibliotek, kø, bok-notater.
 - `scripts/` — prompts/oppskrifter til ukes- og kvartalsrytme.

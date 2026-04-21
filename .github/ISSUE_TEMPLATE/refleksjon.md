@@ -21,6 +21,7 @@ Kort per område (skip de uten bevegelse):
 - **06 Multiplikator-ledelse**:
 - **07 Portefølje & strategi**:
 - **08 Fremtidskritiske ferdigheter**:
+- **09 UX og brukerdesign**:
 
 ## Mønstre
 

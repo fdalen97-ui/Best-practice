@@ -14,19 +14,20 @@ Commit-melding: `dashboard: Q? YYYY`.
 | 06 Multiplikator-ledelse | | | | | |
 | 07 Portefølje & strategi | | | | | |
 | 08 Fremtidskritiske ferdigheter | | | | | |
+| 09 UX og brukerdesign | | | | | |
 
 ---
 
 ## Aktivitetstall per kvartal
 
-| Kvartal | Refleksjonslogger | Bok-oppsummeringer | Beslutningsnotater (øvelse) | Vanskelige samtaler tatt | LinkedIn-innlegg |
-|---|---|---|---|---|---|
-| Q2 2026 | | | | | |
-| Q3 2026 | | | | | |
-| Q4 2026 | | | | | |
-| Q1 2027 | | | | | |
+| Kvartal | Refleksjonslogger | Bok-oppsummeringer | Beslutningsnotater (øvelse) | Vanskelige samtaler tatt | LinkedIn-innlegg | Bruker-interviews |
+|---|---|---|---|---|---|---|
+| Q2 2026 | | | | | | |
+| Q3 2026 | | | | | | |
+| Q4 2026 | | | | | | |
+| Q1 2027 | | | | | | |
 
-Mål år 1: ≥40 refleksjonslogger, ≥12 bok-oppsummeringer, ≥12 vanskelige samtaler, ≥4 LinkedIn-innlegg.
+Mål år 1: ≥40 refleksjonslogger, ≥12 bok-oppsummeringer, ≥12 vanskelige samtaler, ≥4 LinkedIn-innlegg, ≥6 bruker-interviews.
 
 ## Rød flagg-sjekk (kvartalsvis)
 

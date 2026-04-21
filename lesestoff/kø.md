@@ -14,12 +14,13 @@
 | 06 Multiplikator | The Coaching Habit — Bungay Stanier | | kø |
 | 07 Portefølje & strategi | Good Strategy / Bad Strategy — Rumelt | | kø |
 | 08 Fremtidskritiske | AI Engineering — Chip Huyen | | kø |
+| 09 UX og brukerdesign | Don't Make Me Think — Krug | | kø |
 
 ## Policy
 
 - Aktiv = under reell lesing, ikke "på nattbordet".
 - Ved fullføring: flyttes til `bibliotek.md` og notat legges i `notater/`.
-- Max én aktiv per område. Åtte aktive samtidig er taket, ikke målet.
+- Max én aktiv per område. Ni aktive samtidig er taket, ikke målet.
 
 ## Parkert
 

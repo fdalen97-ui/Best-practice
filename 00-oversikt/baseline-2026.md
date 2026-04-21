@@ -86,3 +86,16 @@ Commit-melding ved oppdatering: `baseline: Q? YYYY`.
 | Lokale/on-prem modeller | | | |
 | AI governance som drift | | | |
 | Spatial/multimodal AI for PropTech | | | |
+
+## 09 — UX og brukerdesign
+
+| Delferdighet | Skår | Kommentar | Dato |
+|---|---|---|---|
+| Bruker-interview som metode | | | |
+| Jobs-to-be-done / behovsanalyse | | | |
+| Informasjonsarkitektur og flyt | | | |
+| Prototyping (wireframe/Figma) | | | |
+| Usability testing | | | |
+| Microcopy og interaction design | | | |
+| Accessibility (WCAG-grunnlag) | | | |
+| AI-UX (confidence, kontroll, feilmoduser) | | | |
