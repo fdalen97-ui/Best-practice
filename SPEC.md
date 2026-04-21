@@ -11,7 +11,7 @@ Horisont: 2026–2030. Koblet mot eksisterende kompetanseplan (ADKAR-rammeverk, 
 - **Praksis over pensum.** Hvert område må koble til en pågående eller nylig jobbsituasjon. Hvis ikke, hører det ikke hjemme her.
 - **Baseline først, mål fremover.** Selvevaluering i starten. Kvartalsvis reevaluering. Progresjon er data, ikke følelse.
 - **Refleksjon commites.** Alle læringslogger i git — så mønstre over tid blir synlige.
-- **Få nok, ikke for mye.** Ni kjerneområder. Ikke tjue.
+- **Få nok, ikke for mye.** Ti kjerneområder. Ikke tjue.
 - **Append-only refleksjon.** Dagbokinnlegg redigeres ikke. Feil tenkning fra i fjor er data, ikke flauhet.
 - **Privat først.** Repoet er privat. Enkeltinnsikter kan promoteres til LinkedIn-artikler senere.
 
@@ -40,6 +40,7 @@ kompetanseplattform/
 ├── 07-portefolje-og-strategisk-tenkning/
 ├── 08-fremtidskritiske-ferdigheter/
 ├── 09-ux-og-brukerdesign/
+├── 10-storytelling-og-foredragsholding/
 ├── lederdagbok/
 │   ├── 2026-Q2/
 │   └── README.md
@@ -161,6 +162,18 @@ Praksis: månedlig bruker-interview · månedlig usability-test · kvartalsvis s
 
 Overlapp håndteres bevisst: microcopy → 05, kognitive bias → 02, produksjonsnære AI-patterns → 08.
 
+### 10 — Storytelling og foredragsholding
+
+**Hvorfor:** Holder allerede foredrag og fasiliterer workshops. Gapet mellom "gode foredrag" og "hendelser folk husker og omtaler" er det som skiller intern synlighet fra ekstern etterspørsel. Multiplikator for 04, 05 og 08.
+
+Delferdigheter: narrativ struktur · åpninger og avslutninger · egen historiebank med moral · tempo, pauser, stemmebruk · lese rommet · data som historie · Q&A under press · workshop-fasilitering.
+
+Pensum: Resonate (Duarte) · Storyworthy (Dicks) · Talk Like TED (Gallo) · Confessions of a Public Speaker (Berkun) · The Art of Gathering (Parker). Levende: TED-dekonstruksjoner, Moth Radio Hour.
+
+Praksis: kontinuerlig vedlikeholdt historiebank (mål ≥20 anekdoter) · per foredrag: 30-sek pitch, åpning/avslutning øvd høyt, post-mortem · kvartalsvis: video-opptak sett tilbake · kvartalsvis: TED-dekonstruksjon.
+
+Overlapp: BLUF-struktur → 05, publikum-bias → 02, fasiliteringsspørsmål som utvikler andre → 06.
+
 ## Baseline-mal
 
 For hvert område, skår deg selv 1–5 per delferdighet. Oppdater kvartalsvis. Commit-melding: `baseline: Q2 2026`.
@@ -197,7 +210,7 @@ Råvare til selvevaluering og senere LinkedIn-innhold.
 - `refleksjon.md`: kvartalsvis refleksjon på tvers.
 - `bok-oppsummering.md`: hovedbudskap, 3 nøkkelinnsikter, 1 ting jeg skal prøve, jobb-kobling.
 
-Labels: `omrade-01` – `omrade-09`, `kvartal-Q2-2026`, `bok`, `praksis`, `refleksjon`. Lukket issue = fullført mål.
+Labels: `omrade-01` – `omrade-10`, `kvartal-Q2-2026`, `bok`, `praksis`, `refleksjon`. Lukket issue = fullført mål.
 
 ## Dashboard
 
@@ -207,7 +220,7 @@ Labels: `omrade-01` – `omrade-09`, `kvartal-Q2-2026`, `bok`, `praksis`, `refle
 
 - **Ukentlig**: én refleksjonslogg i aktivt område.
 - **Månedlig**: én boknotat · ett A4-beslutningsnotat (øvelse) · én vanskelig samtale · én "ikke-liste".
-- **Kvartalsvis**: oppdater baseline for alle 9 · oppdater dashboard · 500-ords refleksjon i `progresjon-kvartal.md` · velg primær/sekundær-område · vurder LinkedIn-innlegg.
+- **Kvartalsvis**: oppdater baseline for alle 10 · oppdater dashboard · 500-ords refleksjon i `progresjon-kvartal.md` · velg primær/sekundær-område · vurder LinkedIn-innlegg.
 - **Årlig**: full gjennomgang + kobling mot lønnsforhandling / karrieresamtale med Thomas.
 
 ## Claude Code-workflows
@@ -220,7 +233,7 @@ Labels: `omrade-01` – `omrade-09`, `kvartal-Q2-2026`, `bok`, `praksis`, `refle
 
 ## Suksesskriterier (12 mnd)
 
-- Baseline-skår opp minst 1 poeng i minst 4 av 9 områder.
+- Baseline-skår opp minst 1 poeng i minst 4 av 10 områder.
 - ≥40 refleksjonslogger totalt (≈ukentlig).
 - ≥12 bok-oppsummeringer.
 - ≥4 LinkedIn-artikler promotert fra repoet.

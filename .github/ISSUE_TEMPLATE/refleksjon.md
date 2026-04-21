@@ -22,6 +22,7 @@ Kort per område (skip de uten bevegelse):
 - **07 Portefølje & strategi**:
 - **08 Fremtidskritiske ferdigheter**:
 - **09 UX og brukerdesign**:
+- **10 Storytelling og foredragsholding**:
 
 ## Mønstre
 
