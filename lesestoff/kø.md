@@ -15,12 +15,13 @@
 | 07 Portefølje & strategi | Good Strategy / Bad Strategy — Rumelt | | kø |
 | 08 Fremtidskritiske | AI Engineering — Chip Huyen | | kø |
 | 09 UX og brukerdesign | Don't Make Me Think — Krug | | kø |
+| 10 Storytelling og foredragsholding | Resonate — Duarte | | kø |
 
 ## Policy
 
 - Aktiv = under reell lesing, ikke "på nattbordet".
 - Ved fullføring: flyttes til `bibliotek.md` og notat legges i `notater/`.
-- Max én aktiv per område. Ni aktive samtidig er taket, ikke målet.
+- Max én aktiv per område. Ti aktive samtidig er taket, ikke målet.
 
 ## Parkert
 

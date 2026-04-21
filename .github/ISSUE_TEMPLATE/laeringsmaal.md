@@ -24,6 +24,7 @@ Hvordan vet jeg at målet er nådd? (Konkret, observerbart. Ikke "føle meg tryg
 - [ ] omrade-07 Portefølje & strategi
 - [ ] omrade-08 Fremtidskritiske ferdigheter
 - [ ] omrade-09 UX og brukerdesign
+- [ ] omrade-10 Storytelling og foredragsholding
 
 ## Kobling til jobbsituasjon
 

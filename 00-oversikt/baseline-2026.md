@@ -99,3 +99,17 @@ Commit-melding ved oppdatering: `baseline: Q? YYYY`.
 | Microcopy og interaction design | | | |
 | Accessibility (WCAG-grunnlag) | | | |
 | AI-UX (confidence, kontroll, feilmoduser) | | | |
+
+## 10 — Storytelling og foredragsholding
+
+| Delferdighet | Skår | Kommentar | Dato |
+|---|---|---|---|
+| Narrativ struktur (3-akt, tension-release) | | | |
+| Åpninger som fester oppmerksomhet | | | |
+| Avslutninger som lander | | | |
+| Bruk av egne anekdoter med moral | | | |
+| Tempo, pauser, stemmebruk | | | |
+| Lese rommet / justere underveis | | | |
+| Data som historie, ikke som tabell | | | |
+| Q&A under press | | | |
+| Workshop-fasilitering (eget format) | | | |

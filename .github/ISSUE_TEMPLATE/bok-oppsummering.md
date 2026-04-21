@@ -38,6 +38,7 @@ Hvilken aktuell situasjon (navngitt person, prosjekt, workshop) endres av denne 
 - [ ] omrade-07 Portefølje & strategi
 - [ ] omrade-08 Fremtidskritiske ferdigheter
 - [ ] omrade-09 UX og brukerdesign
+- [ ] omrade-10 Storytelling og foredragsholding
 
 ## Kandidat til LinkedIn?
 
