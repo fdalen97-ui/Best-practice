@@ -2,7 +2,7 @@
 
 ## Hva er dette
 
-Evals som håndverk, agent-arkitektur utover Plan-and-Execute, lokale/on-prem modeller, AI governance som drift (ikke byråkrati), spatial/multimodal AI for PropTech.
+Evals som håndverk, agent-arkitektur utover Plan-and-Execute, lokale/on-prem modeller, AI governance som drift (ikke byråkrati), spatial/multimodal AI for PropTech, roboter og robotikk (embodied AI, VLA-modeller, arbeidsrelevans).
 
 Mindre soft skills, mer differensieringsferdigheter for 2027+.
 

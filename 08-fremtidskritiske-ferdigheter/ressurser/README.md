@@ -7,7 +7,8 @@ Filnavn:
 - `agent-pattern-YYYY-MM-<navn>.md`
 - `linkedin-utkast-YYYY-MM-DD-<tema>.md`
 - `<forfatter>-<tittel>.md` — boknotater
+- `roboter-og-robotikk/` — delkatalog for robotikk-notater
 
 ## Indeks
 
-*(oppdateres etter hvert)*
+- [Roboter og robotikk](roboter-og-robotikk/README.md)
