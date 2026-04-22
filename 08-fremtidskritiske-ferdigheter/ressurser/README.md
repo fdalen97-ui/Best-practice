@@ -12,3 +12,4 @@ Filnavn:
 ## Indeks
 
 - [Roboter og robotikk](roboter-og-robotikk/README.md)
+- [Full-stack — hva det faktisk betyr](fullstack-forklart.md) *(referanse, DeCodeDev-infografikk)*
