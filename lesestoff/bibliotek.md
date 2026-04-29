@@ -2,6 +2,8 @@
 
 Fullførte bøker med bok-oppsummering i `notater/`. Listen er kronologisk etter fullført-dato.
 
+For åpne ressurser som oppdateres løpende (designsystemer, UU-veiledere o.l.), se `levende-kilder.md`.
+
 | Dato fullført | Tittel | Forfatter | Område | Notat |
 |---|---|---|---|---|
 
