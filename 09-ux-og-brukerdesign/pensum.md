@@ -23,6 +23,15 @@
 - **Anthropic/OpenAI designskriverier** om agent-UX, confidence-visning, kontrollmekanismer.
 - **Nielsen Norman Group** — AI-UX-artikler (løpende).
 
+## Norsk offentlig sektor (levende kilder, ikke bøker)
+
+Slå opp ved konkret behov, ikke les lineært. Bruksmåte beskrevet i `lesestoff/levende-kilder.md`.
+
+- **navikt/aksel** — Navs designsystem og Aksel-portalen. Komponent-mønstre, UU, klarspråk.
+- **digdir/designsystemet** — Digdirs designsystem. Referanse for norsk språkbruk og skjemaflyt i offentlig tjenestekontekst.
+- **navikt/universell-utforming** — NAV-veileder for utviklingsteam. WCAG kondensert til praktiske tiltak.
+- **entur/design-system** — Entur Linje. Sekundærreferanse for konsistens-prinsipper.
+
 ## Ikke-liste
 
 - Ikke grafisk design-bøker (typografi, farger, layout) — feil problem for min rolle.
