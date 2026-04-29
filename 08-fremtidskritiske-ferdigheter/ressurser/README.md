@@ -14,3 +14,4 @@ Filnavn:
 - [Roboter og robotikk](roboter-og-robotikk/README.md)
 - [Full-stack — hva det faktisk betyr](fullstack-forklart.md) *(referanse, DeCodeDev-infografikk)*
 - [PropTech-mapping — Norge og Norden](proptech-mapping-norden.md) *(økosystem-kart, Q2 2026)*
+- [Fra PC til internett til KI — overføringer som faktisk gjelder](tech-evolusjon-til-ki.md) *(fasekart og navigasjon, Q2 2026)*
